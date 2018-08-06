@@ -20,7 +20,8 @@ class ViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        startNewGame()    }
+        startNewGame()
+    }
 
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
